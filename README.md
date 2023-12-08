@@ -1,1 +1,1 @@
-Моя практика з можливостями самого інструменту по офіційній документації
+My practice with the capabilities of the tool itself for official documentation
